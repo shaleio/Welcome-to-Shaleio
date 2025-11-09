@@ -48,6 +48,7 @@ By using or distributing this software, you agree to the terms of the Shaleio Gu
 For commercial inquiries or membership information, contact info@shaleio.com.
 
 8. Definitions
+   
 Definition of Net Revenue
 For purposes of this License, “net revenue” means the total amount of funds actually received from a sale or license of a Guild product or service, less the following:
 
