@@ -1,6 +1,6 @@
-SHALÉIO GUILD LICENSE (SGL) v1.1
+SHALEIO GUILD LICENSE (SGL) v1.1
 
-Copyright © 2025 Shaleio Guild and individual contributors
+Copyright © 2025 Shaleio LLC and individual contributors
 
 Permission is granted, free of charge, to any individual or organization to use, view, and modify this software for personal, educational, or non-commercial purposes, subject to the following conditions:
 
