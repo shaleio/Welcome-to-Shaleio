@@ -16,13 +16,13 @@ By submitting work to a Guild repository, the builder grants Shaleio Guild a per
 ## 3. Revenue Share
 
 When Shaleio Guild licenses or resells a product that includes builder contributions, net revenue shall be divided as follows unless otherwise agreed in writing:
-• 85 % to the builder(s) whose work forms the basis of the resale.
-• 15 % to Shaleio Guild for stewardship, brand, and operational costs.
+- 85 % to the builder(s) whose work forms the basis of the resale.
+- 15 % to Shaleio Guild for stewardship, brand, and operational costs.
 Payments are made on a royalty basis within sixty (60) days of receipt.
 
 When a contributing builder or builders resell a product that was produced as a part of a guild project or contract, net revenue shall be divided as follows unless otherwise agreed in writing:
-• 95 % to the builder(s) whose work forms the basis of the resale.
-• 5 % to Shaleio Guild for stewardship, brand, and operational costs.
+- 95 % to the builder(s) whose work forms the basis of the resale.
+- 5 % to Shaleio Guild for stewardship, brand, and operational costs.
 Payments are made on a royalty basis within sixty (60) days of receipt.
 
 Terms for the transaction types illustrated above, determined by the initiator, also apply to original products submitted to Shaleio for resale or distribution under the Shaleio brand.
