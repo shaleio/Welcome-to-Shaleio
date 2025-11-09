@@ -46,3 +46,13 @@ This software is provided “AS IS,” without warranty of any kind, express or 
 
 By using or distributing this software, you agree to the terms of the Shaleio Guild License v1.1.
 For commercial inquiries or membership information, contact info@shaleio.com.
+
+8. Definitions
+Definition of Net Revenue
+For purposes of this License, “net revenue” means the total amount of funds actually received from a sale or license of a Guild product or service, less the following:
+
+mandatory taxes or transaction fees collected or withheld by payment processors or governments;
+
+reasonable direct costs of sale (such as hosting, packaging, or distribution fees) directly attributable to that transaction.
+
+No other overhead, administrative, or indirect costs shall be deducted from gross receipts when calculating builder royalties.
