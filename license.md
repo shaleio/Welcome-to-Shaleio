@@ -1,4 +1,4 @@
-SHALEIO GUILD LICENSE (SGL) v1.1
+# SHALEIO GUILD LICENSE (SGL) v1.1
 
 Copyright © 2025 Shaleio LLC and individual contributors
 
