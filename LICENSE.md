@@ -1,4 +1,4 @@
-# SHALEIO GUILD LICENSE (SGL™) v1.1
+## Shaleio Guild License (SGL™) v1.1 — Effective Date: 2025-11-09
 
 Copyright © 2025 Shaleio LLC and individual contributors
 
