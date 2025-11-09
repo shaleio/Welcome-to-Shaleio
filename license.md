@@ -11,14 +11,21 @@ All copies or substantial portions must retain this notice and visible credit to
 2. Builder Ownership
 
 Each builder retains full intellectual-property rights to their original contributions.
-By submitting work to a Guild repository, the builder grants Shaleio Guild a perpetual, non-exclusive license to distribute, sublicense, and resell that work under the SGL framework.
+By submitting work to a Guild repository, the builder grants Shaleio Guild a perpetual, irrevocable, non-exclusive license to distribute, sublicense, and resell that work under the SGL framework. 
 
 3. Revenue Share
 
 When Shaleio Guild licenses or resells a product that includes builder contributions, net revenue shall be divided as follows unless otherwise agreed in writing:
-• 90 % to the builder(s) whose work forms the basis of the resale.
-• 10 % to Shaleio Guild for stewardship, brand, and operational costs.
+• 85 % to the builder(s) whose work forms the basis of the resale.
+• 15 % to Shaleio Guild for stewardship, brand, and operational costs.
 Payments are made on a royalty basis within sixty (60) days of receipt.
+
+When a contribuiting builder or builders resell a product that was produced as a part of a guild project or contract, net revenue shall be divided as follows unless otherwise agreed in writing:
+• 95 % to the builder(s) whose work forms the basis of the resale.
+• 5 % to Shaleio Guild for stewardship, brand, and operational costs.
+Payments are made on a royalty basis within sixty (60) days of receipt.
+
+Terms for the transaction types illustrated above, determined by the initiator, also apply to original products submitted to Shaleio for resale or distribution under the Shaleio brand.
 
 4. Guild Commercial Rights
 
@@ -38,5 +45,4 @@ The Shaleio name, mark, and proprietary frameworks remain the collective propert
 This software is provided “AS IS,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 By using or distributing this software, you agree to the terms of the Shaleio Guild License v1.1.
-For commercial inquiries or membership information, contact info@shaleio.com
-.
+For commercial inquiries or membership information, contact info@shaleio.com.
