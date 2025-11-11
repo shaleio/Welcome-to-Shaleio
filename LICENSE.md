@@ -49,7 +49,7 @@ For commercial inquiries or membership information, contact info@shaleio.com.
 
 ## 8. Representation and Negotiation
 
-Shaleio Guild acts as a representative and steward on behalf of contributing Builder(s). In all negotiations or contractual agreements involving the Licensed Work, the Guild's fiduciary duty shall prioritize the rights, ownership, and compensation of the originating Builder(s). The Guild may as agent negotiate usage, redistribution, or integration terms with Clients or third parties. When such integration extends beyond internal use, the Guild shall facilitate a separate written agreement between the Client, the contributing Builder(s), and the Guild, defining attribution, compensation ,and rights of distribution. 
+Shaleio Guild acts as a representative and steward on behalf of contributing Builder(s). In all negotiations or contractual agreements involving the Licensed Work, the Guild's fiduciary duty shall prioritize the rights, ownership, and compensation of the originating Builder(s). The Guild may as agent negotiate usage, redistribution, or integration terms with Clients or third parties. When such integration extends beyond internal use, the Guild shall facilitate a separate written agreement between the Client, the contributing Builder(s), and the Guild, defining attribution, compensation, and rights of distribution. 
 
 ## 9. Administrative and Overhead Fees
 
