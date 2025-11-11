@@ -47,7 +47,18 @@ This software is provided “AS IS,” without warranty of any kind, express or 
 By using or distributing this software, you agree to the terms of the Shaleio Guild License v1.1.
 For commercial inquiries or membership information, contact info@shaleio.com.
 
-## 8. Definitions
+## 8. Representation and Negotiation
+
+Shaleio Guild acts as a representative and steward on behalf of contributing Builder(s). In all negotiations or contractual agreements involving the Licensed Work, the Guild's fiduciary duty shall prioritize the rights, ownership, and compensation of the originating Builder(s). The Guild may as agent negotiate usage, redistribution, or integration terms with Clients or third parties. When such integration extends beyond internal use, the Guild shall facilitate a separate written agreement between the Client, the contributing Builder(s), and the Guild, defining attribution, compensation ,and rights of distribution. 
+
+## 9. Administrative and Overhead Fees
+
+To provide builders with legal, administrative, and negotiation support, Shaleio Guild may recover reasonable overhead fees related to these services.
+Such fees are normally paid by the Client or deducted from the project’s gross proceeds before builder revenue shares are calculated.
+Shaleio will never directly bill individual builders for Guild overhead or legal services unless a separate written agreement expressly provides otherwise.
+All fees shall be disclosed transparently in writing and shall not reduce a builder’s entitled ownership or share as defined under this License.
+
+## 10. Definitions
    
 Definition of Net Revenue
 For purposes of this License, “net revenue” means the total amount of funds actually received from a sale or license of a Guild product or service, less the following:
