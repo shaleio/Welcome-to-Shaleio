@@ -84,7 +84,7 @@ For questions or commercial use requests, contact **info@shaleio.com**.
 ### 🐒 About the Logo
 
 The **Monkey on the Barrel** symbolizes ingenuity, rebellion, and craft.  
-From oil barrels to data pipelines — we build smarter, leaner, freer systems.
+We build smarter, leaner, freer systems.
 
 ---
 
