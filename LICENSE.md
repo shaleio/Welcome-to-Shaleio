@@ -1,70 +1,250 @@
-## Shaleio Guild License (SGL™) v1.1 — Effective Date: 2025-11-09
+# Shaleio Guild License (SGL™) v1.3 — LEGALLY HARDENED DRAFT
 
-Copyright © 2025 Shaleio LLC and individual contributors
+**Effective Date:** TBD (2025)
+**Copyright © 2025 ShaleIO LLC and Individual Builders**
 
-Permission is granted, free of charge, to any individual or organization to use, view, and modify this software for personal, educational, or non-commercial purposes, subject to the following conditions:
+---
 
-## 1. Attribution
+# 1. PURPOSE AND SCOPE
 
-All copies or substantial portions must retain this notice and visible credit to the original builder(s) and Shaleio Guild.
+The Shaleio Guild License (SGL™) governs:
 
-## 2. Builder Ownership
+* distribution,
+* resale,
+* certification,
+* and revenue‑sharing
 
-Each builder retains full intellectual-property rights to their original contributions.
-By submitting work to a Guild repository, the builder grants Shaleio Guild a perpetual, irrevocable, non-exclusive license to distribute, sublicense, and resell that work under the SGL framework. 
+of products (“Strata”) distributed under the ShaleIO Guild ecosystem.
 
-## 3. Revenue Share
+This License regulates **Guild‑related commerce only**. Builders retain full independence and may freely use their IP outside the Guild.
 
-When Shaleio Guild licenses or resells a product that includes builder contributions, net revenue shall be divided as follows unless otherwise agreed in writing:
-- 85 % to the builder(s) whose work forms the basis of the resale.
-- 15 % to Shaleio Guild for stewardship, brand, and operational costs.
-Payments are made on a royalty basis within sixty (60) days of receipt.
+All rights not expressly granted by this License are **reserved** by Builders and ShaleIO.
 
-When a contributing builder or builders resell a product that was produced as a part of a guild project or contract, net revenue shall be divided as follows unless otherwise agreed in writing:
-- 95 % to the builder(s) whose work forms the basis of the resale.
-- 5 % to Shaleio Guild for stewardship, brand, and operational costs.
-Payments are made on a royalty basis within sixty (60) days of receipt.
+---
 
-Terms for the transaction types illustrated above, determined by the initiator, also apply to original products submitted to Shaleio for resale or distribution under the Shaleio brand.
+# 2. DEFINITIONS
 
-## 4. Guild Commercial Rights
+**Builder** — An independent creator or LLC contributing original IP to any Guild-governed work.
 
-Commercial usage, resale, or deployment within for-profit products or services is reserved exclusively for licensed Guild members and official partners operating under this License.
-Non-members must obtain express written authorization from Shaleio Guild.
+**Licensed Work** — Any code, artifacts, or products submitted to the Guild, or distributed under the SGL.
 
-## 5. Non-Commercial Use
+**Strata** — A Guild‑certified, slice‑based, revenue‑sharing product.
 
-You may not sell, sublicense, relicense, or commercialize this software or derivative works outside the Guild network without explicit written permission.
+**Royalty Engine** — The portion of revenue (85%) allocated to Builders and Reforge Pools.
 
-## 6. Guild Marks and Frameworks
+**Commercial Use** — Any sale, deployment, integration, licensing, or use of a Licensed Work in exchange for money, services, resources, or enterprise benefit.
 
-The Shaleio name, mark, and proprietary frameworks remain the collective property of the Guild and may not be used to imply endorsement without consent.
+**Net Revenue** — Total received funds **minus**:
 
-## 7. Warranty Disclaimer
+* mandatory taxes,
+* transaction fees,
+* direct hosting/distribution costs.
 
-This software is provided “AS IS,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+No indirect, administrative, or internal costs may be deducted.
 
-By using or distributing this software, you agree to the terms of the Shaleio Guild License v1.1.
-For commercial inquiries or membership information, contact info@shaleio.com.
+---
 
-## 8. Representation and Negotiation
+# 3. BUILDER OWNERSHIP (THE BUILDER OWNS)
 
-Shaleio Guild acts as a representative and steward on behalf of contributing Builder(s). In all negotiations or contractual agreements involving the Licensed Work, the Guild's fiduciary duty shall prioritize the rights, ownership, and compensation of the originating Builder(s). The Guild may as agent negotiate usage, redistribution, or integration terms with Clients or third parties. When such integration extends beyond internal use, the Guild shall facilitate a separate written agreement between the Client, the contributing Builder(s), and the Guild, defining attribution, compensation, and rights of distribution. 
+Builders retain **full intellectual-property ownership** of all original work.
 
-## 9. Administrative and Overhead Fees
+Submitting a Licensed Work to the Guild grants ShaleIO a **perpetual, irrevocable, non-exclusive license** to:
 
-To provide builders with legal, administrative, and negotiation support, Shaleio Guild may recover reasonable overhead fees related to these services.
-Such fees are normally paid by the Client or deducted from the project’s gross proceeds before builder revenue shares are calculated.
-Shaleio will never directly bill individual builders for Guild overhead or legal services unless a separate written agreement expressly provides otherwise.
-All fees shall be disclosed transparently in writing and shall not reduce a builder’s entitled ownership or share as defined under this License.
+* distribute,
+* certify,
+* sublicense,
+* and resell
 
-## 10. Definitions
-   
-Definition of Net Revenue
-For purposes of this License, “net revenue” means the total amount of funds actually received from a sale or license of a Guild product or service, less the following:
+within the Guild ecosystem **only**.
 
-mandatory taxes or transaction fees collected or withheld by payment processors or governments;
+Builders may freely relicense or commercialize their work **outside** the Guild under any terms they choose.
 
-reasonable direct costs of sale (such as hosting, packaging, or distribution fees) directly attributable to that transaction.
+The Builder owns:
 
-No other overhead, administrative, or indirect costs shall be deducted from gross receipts when calculating builder royalties.
+* the work,
+* the rights,
+* and **the liability** for any Builder–Client contract.
+
+The Guild is **never** a contracting party.
+
+---
+
+# 4. ROYALTY MODEL (SLICE-BASED REFORGE SYSTEM)
+
+All Guild sales follow a fixed structure:
+
+### 4.1 Guild Marketplace Sales
+
+From each sale:
+
+* **15%** → ShaleIO Guild (stewardship fee)
+* **85%** → Royalty Engine
+
+### 4.2 Original Builder (OB) Floor
+
+The Original Builder receives a **permanent, non-dilutable floor of 30%** of the Royalty Engine.
+
+### 4.3 Reforge Pools
+
+A “Reforge” occurs when a Builder materially improves, extends, or restructures a Strata.
+
+Each major Reforge creates a new, permanent royalty slice:
+
+* Reforge 1 Pool (R1)
+* Reforge 2 Pool (R2)
+* Reforge 3 Pool (R3)
+
+Payout example for $100 sale:
+
+* $15 → Guild
+* $85 → Royalty Engine
+
+  * OB: 30% of $85 = **$25.50**
+  * R1 pool: 40% of $85 = **$34.00**
+  * R2 pool: 30% of $85 = **$25.50**
+
+### 4.4 Reforge 4 and Beyond (Arbitration Zone)
+
+After the third major Reforge, the Stewards review any further contribution to determine whether it is:
+
+* a new Strata,
+* a new limited royalty pool,
+* or bounty-only maintenance.
+
+**The Guild’s ruling is final within the Guild ecosystem.**
+
+---
+
+# 5. INDEPENDENT SALES UNDER SGL (TITHE SYSTEM)
+
+Builders may sell their own SGL-governed works independently.
+
+Revenue share:
+
+* **90%** → Builder(s)
+* **10%** → ShaleIO Guild (tithe)
+
+Payments due within **60 days**.
+
+Independent SGL use maintains lineage, brand integrity, and royalty slices.
+
+---
+
+# 6. NON-SGL INDEPENDENT SALES (BUILDER FREEDOM)
+
+Builders may sell, modify, or relicense their work **outside** the SGL with:
+
+* no tithe,
+* no obligation,
+* and no revenue share owed to ShaleIO.
+
+These products may not claim Guild certification or use Guild marks.
+
+---
+
+# 7. ATTRIBUTION REQUIREMENTS
+
+All Licensed Works must preserve:
+
+* original Builder attribution,
+* Strata lineage if applicable,
+* Guild certification mark if distributed through Guild channels.
+
+Attribution must be:
+
+* visible,
+* unambiguous,
+* and retained in derivative works.
+
+Removing attribution terminates the License.
+
+---
+
+# 8. TRADEMARKS AND GUILD MARKS
+
+“ShaleIO,” “ShaleIO Guild,” “Strata,” and the **Seal of the Forge** are Guild trademarks.
+
+Use is prohibited without explicit authorization.
+
+Misuse of Guild marks results in immediate revocation of SGL rights.
+
+---
+
+# 9. WARRANTY & LIABILITY DISCLAIMERS
+
+All Licensed Works are provided **"AS IS,"** without any warranty.
+
+ShaleIO and Builders disclaim all liability for:
+
+* indirect,
+* incidental,
+* special,
+* punitive,
+* consequential,
+* or lost-profit damages.
+
+Nothing in this License obligates the Guild or any Builder to provide support, updates, fixes, or maintenance.
+
+Builders bear full responsibility for their deliverables in all client engagements.
+
+---
+
+# 10. ARBITRATION AND DISPUTE RESOLUTION
+
+### 10.1 Guild Arbitration Scope
+
+Covers only:
+
+* slice calculations,
+* reforge classification,
+* lineage disputes,
+* tithe/royalty compliance,
+* SGL misuse,
+* Strata certification rules.
+
+### 10.2 Process
+
+* Stewards review.
+* Guildmaster interprets.
+* Decision is final **inside** the Guild.
+
+### 10.3 External Contracts
+
+All Builder-client disputes fall **outside** Guild jurisdiction.
+
+---
+
+# 11. TERMINATION
+
+Grounds for termination:
+
+* failure to pay royalties or tithe,
+* misuse of Guild marks or SGL branding,
+* removal of required attribution,
+* violation of arbitration rulings,
+* material breach of License.
+
+Upon termination:
+
+* SGL commercial rights are revoked,
+* Guild marketplace access ceases,
+* Strata certification is withdrawn.
+
+Builders retain full ownership of their IP.
+
+---
+
+# 12. GOVERNING LAW
+
+This License is governed by the laws of the **State of Florida**, United States.
+
+Any legal claim arising from this License shall be brought exclusively in Florida courts.
+
+---
+
+# 13. ACCEPTANCE OF TERMS
+
+By contributing, distributing, or selling under the SGL, you agree to all terms herein.
+
+For inquiries: **[info@shaleio.com](mailto:info@shaleio.com)**
+
