@@ -2,13 +2,10 @@
 
 ## The ShaleIO Guild exists to:
 
-empower independent Builders to create, own, and sell cloud-native software and infrastructure artifacts;
-
-maintain product lineage and quality through structured reforges, patches, and version governance;
-
-provide clients with lifecycle confidence through Guild-backed certification and stewardship;
-
-preserve Builder sovereignty while enabling collective economic acceleration.
+- empower independent Builders to create, own, and sell cloud-native software and infrastructure artifacts;
+- maintain product lineage and quality through structured reforges, patches, and version governance;
+- provide clients with lifecycle confidence through Guild-backed certification and stewardship;
+- preserve Builder sovereignty while enabling collective economic acceleration.
 
 The Guild is not an employer, vendor-of-record, or contracting entity.
 The Guild provides stewardship, certification, governance, and ecosystem support.
