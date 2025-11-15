@@ -1,6 +1,11 @@
-# 1. Purpose of the Guild
+# ShaleIO Guild Charter — Draft v1.0
 
-## The ShaleIO Guild exists to:
+Status: Pre-Guild Era
+Effective Upon Activation of the First Five
+
+## 1. Purpose of the Guild
+
+### The ShaleIO Guild exists to:
 
 - empower independent Builders to create, own, and sell cloud-native software and infrastructure artifacts;
 - maintain product lineage and quality through structured reforges, patches, and version governance;
@@ -10,259 +15,221 @@
 The Guild is not an employer, vendor-of-record, or contracting entity.
 The Guild provides stewardship, certification, governance, and ecosystem support.
 
-# 2. Core Principles
-## 2.1 The Builder Owns
+## 2. Core Principles
+### 2.1 The Builder Owns
 
 Builders retain full intellectual-property ownership, rights, and responsibility for their work.
 Liability for deliverables remains fully with each Builder or their LLC.
 
-## 2.2 The Guild Stewards
+### 2.2 The Guild Stewards
 
 The Guild manages governance, certification, lineage, maintenance funds, and economic frameworks.
 The Guild never assumes operational or contractual liability.
 
-## 2.3 Sovereignty Over Hierarchy
+### 2.3 Sovereignty Over Hierarchy
 
 Builders are independent entities.
 The Guild imposes no employer-style control or obligations.
 
-## 2.4 Transparency and Fairness
+### 2.4 Transparency and Fairness
 
 Royalty splits, lineage rules, attribution, and arbitration decisions follow published, consistent processes.
 
-## 2.5 Craft Above Ego
+### 2.5 Craft Above Ego
 
 Contribution quality, clarity, and reliability take precedence over personality, politics, or seniority.
 
-# 3. Guild Structure
-## 3.1 The Guildmaster
+## 3. Guild Structure
+### 3.1 The Guildmaster
 
 The founder of the Guild during the Pre-Guild Era.
 Responsible for:
 
-interpreting the Charter,
+- interpreting the Charter,
+- maintaining the SGL,
+- overseeing lineage and reforge rulings,
+- activating the Guild upon completion of the Path of the First Five,
+- ensuring the Guild remains aligned with core principles.
+- The Guildmaster does not own Builder IP and does not override Builder sovereignty.
 
-maintaining the SGL,
+### 3.2 Stewards (Phase 3)
 
-overseeing lineage and reforge rulings,
+- Stewards are appointed after Guild activation to:
+- review reforge submissions,
+- arbitrate lineage and slice assignments,
+- approve maintenance-funded work,
+- protect the integrity of Guild marks,
+- uphold transparent governance.
+- Stewards are administrators, not owners.
 
-activating the Guild upon completion of the Path of the First Five,
+### 3.3 Builders
 
-ensuring the Guild remains aligned with core principles.
+- Independent engineers or LLCs who:
+- contribute original work,
+- submit reforges,
+- respect lineage rules,
+- adhere to the SGL,
+- maintain professional conduct within the Guild.
+- Builders may come and go freely.
+- They are autonomous and retain full freedom.
 
-The Guildmaster does not own Builder IP and does not override Builder sovereignty.
-
-## 3.2 Stewards (Phase 3)
-
-Stewards are appointed after Guild activation to:
-
-review reforge submissions,
-
-arbitrate lineage and slice assignments,
-
-approve maintenance-funded work,
-
-protect the integrity of Guild marks,
-
-uphold transparent governance.
-
-Stewards are administrators, not owners.
-
-## 3.3 Builders
-
-Independent engineers or LLCs who:
-
-contribute original work,
-
-submit reforges,
-
-respect lineage rules,
-
-adhere to the SGL,
-
-maintain professional conduct within the Guild.
-
-Builders may come and go freely.
-They are autonomous and retain full freedom.
-
-# 4. The Path of the First Five
+## 4. The Path of the First Five
 
 The Guild is not active until the First Five Builders demonstrate:
 
-formation of their LLC,
-
-acceptance of the Charter and SGL,
-
-contribution to or creation of a Strata,
-
-understanding of lineage and reforges,
-
-honorable engagement with the community.
+- formation of their LLC,
+- acceptance of the Charter and SGL,
+- contribution to or creation of a Strata,
+- understanding of lineage and reforges,
+- honorable engagement with the community.
 
 Upon the recognition of the Fifth Builder, the Guild is formally activated, Stewards may be appointed, and Phase 2/3 operations may begin.
 
-5. Strata & Lineage Governance
-5.1 Strata
+## 5. Strata & Lineage Governance
+### 5.1 ShaleIO Strata
 
 Guild-certified products governed by the SGL and subject to:
 
-attribution,
+- attribution,
+- lineage preservation,
+- slice-based royalty distribution,
+- reforge governance.
 
-lineage preservation,
-
-slice-based royalty distribution,
-
-reforge governance.
-
-5.2 Original Builder Floor
+### 5.2 Original Builder Floor
 
 The Original Builder receives a permanent non-dilutable 30% of the Royalty Engine (85% of sale value).
 
-5.3 Reforges
+### 5.3 Reforges
 
 Major contributions that materially improve the Strata.
 A reforge creates a new permanent royalty pool according to Guild rules.
 
 After Reforge 3, additional reforges enter arbitration to determine:
 
-new Strata lineage,
+- new Strata lineage,
+- reforge-4+ pool logic,
+- or bounty-only classification.
 
-reforge-4+ pool logic,
-
-or bounty-only classification.
-
-5.4 Bounties
+### 5.4 Bounties
 
 Minor fixes or small patches funded by maintenance revenue.
 Optional for Builders; no ongoing obligations.
 
-6. Maintenance Ecosystem
+## 6. Maintenance Ecosystem
 
 (Activated in Phase 3)
 
 The Guild may offer optional maintenance subscriptions that provide:
 
-patch bundles,
-
-compatibility updates,
-
-version governance,
-
-security fixes,
-
-reforge-aligned enhancements.
+- patch bundles,
+- compatibility updates,
+- version governance,
+- security fixes,
+- reforge-aligned enhancements.
 
 Maintenance funds flow exclusively to ShaleIO and are used for:
 
-patch bounties,
-
-reforge incentives,
-
-ecosystem stability.
+- patch bounties,
+- reforge incentives,
+- ecosystem stability.
 
 Clients never receive direct infrastructure work.
 Builders never owe maintenance unless they accept a bounty.
 
-7. Revenue & Compensation
-7.1 Guild Marketplace Sales
+## . Revenue & Compensation
+### 7.1 Guild Marketplace Sales
 
-15% → Guild stewardship
+- 15% → Guild stewardship
+- 85% → Royalty Engine (OB + Reforge pools)
 
-85% → Royalty Engine (OB + Reforge pools)
+### 7.2 Independent Sales under SGL
 
-7.2 Independent Sales under SGL
+- 10% tithe to Guild
+- 90% to Builder(s)
 
-10% tithe to Guild
-
-90% to Builder(s)
-
-7.3 Non-SGL Independent Sales
+### 7.3 Non-SGL Independent Sales
 
 Builders may sell their work under other licenses with no obligation to the Guild.
 They may not use Guild marks or claim certification.
 
-7.4 Client Referral (Non-SGL Service Work)
+### 7.4 Client Referral (Non-SGL Service Work)
 
 If ShaleIO delivers a client to a Builder for services, the Guild may charge a one-time 10% referral fee.
 The Guild does not enter the contract.
 
-8. Use of Guild Marks
+## 8. Use of Guild Marks
 
-“ShaleIO,” “ShaleIO Guild,” “ShaleIO Strata,” and the Seal of the Forge may only be used with:
+“ShaleIO,” “ShaleIO Guild,” “ShaleIO Strata,” and "The Seal of the Forge" may only be used with:
 
-proper attribution,
-
-Guild certification,
-
-and compliance with the SGL.
+- proper attribution,
+- Guild certification,
+- and compliance with the SGL.
 
 Misuse results in immediate revocation of Guild privileges.
 
-9. Arbitration
-9.1 Scope
+## 9. Arbitration
+### 9.1 Scope
 
 Arbitration covers only Guild matters:
 
-lineage,
+- lineage,
+- reforges,
+- slice allocation,
+- SGL compliance,
+- brand misuse,
+- tithe/royalty disputes.
 
-reforges,
+### 9.2 Process
 
-slice allocation,
+- Stewards review
+- Guildmaster interprets
+- Decision is final inside the Guild
 
-SGL compliance,
-
-brand misuse,
-
-tithe/royalty disputes.
-
-9.2 Process
-
-Stewards review
-
-Guildmaster interprets
-
-Decision is final inside the Guild
-
-9.3 External Disputes
+### 9.3 External Disputes
 
 Builder-client issues are outside Guild jurisdiction.
 
-10. Termination
+## 10. Termination
 
-Grounds for termination:
+#### Grounds for termination:
+- removal of attribution,
+- misuse of Guild marks,
+- nonpayment of royalties or tithe,
+- breach of SGL or Charter,
+- hostility or bad-faith behavior.
 
-removal of attribution,
-
-misuse of Guild marks,
-
-nonpayment of royalties or tithe,
-
-breach of SGL or Charter,
-
-hostility or bad-faith behavior.
-
-Termination revokes:
-
-certification,
-
-marketplace access,
-
-eligibility for reforges,
-
-use of Guild marks and identity.
+#### Termination revokes:
+- certification,
+- marketplace access,
+- eligibility for reforges,
+- use of Guild marks and identity.
 
 Builders retain full ownership of their IP.
 
-11. Amendment to the Charter
+## 11. Prohibition on Publicly Traded Entities
+
+Publicly traded corporations, their subsidiaries, majority-owned portfolio companies, and any organization directly controlled by a public entity are prohibited from joining the Guild or holding Builder status.
+
+The Guild is designed for independent Builders, small LLCs, and privately held entities whose incentives align with the principles of sovereignty, ownership, and craft.
+
+This rule ensures:
+- independence of Builder contributions,
+- avoidance of corporate capture or influence,
+- preservation of Guild economics and lineage integrity,
+- and protection of the ecosystem from scale-based distortion.
+
+A publicly traded entity may purchase and use Strata products under standard SGL commercial terms, but may not join the Guild, earn slices, submit reforges, or claim any Builder or Steward designation.
+
+## 12. Amendment to the Charter
 
 This Charter may be updated by the Guildmaster prior to activation.
 After activation, amendments require review by Stewards and formal declaration by the Guildmaster.
 
-12. Governing Law
+## 13. Governing Law
 
 This Charter is governed by the laws of the State of Florida, United States.
 
-13. Closing Statement
+## 14. Closing Statement
 
 The Guild exists for the Builders, not above them.
 It grows only through craft, integrity, and creation.
