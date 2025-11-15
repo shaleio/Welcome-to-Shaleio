@@ -78,7 +78,7 @@ Responsible for:
 The Guild is not active until the First Five Builders demonstrate:
 
 - formation of their LLC,
-- acceptance of the Charter and SGL,
+- acceptance of the Charter, NDA, SGL,
 - contribution to or creation of a Strata,
 - understanding of lineage and reforges,
 - honorable engagement with the community.
