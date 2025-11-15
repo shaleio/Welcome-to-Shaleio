@@ -1,6 +1,6 @@
-1. Purpose of the Guild
+# 1. Purpose of the Guild
 
-The ShaleIO Guild exists to:
+## The ShaleIO Guild exists to:
 
 empower independent Builders to create, own, and sell cloud-native software and infrastructure artifacts;
 
@@ -13,32 +13,32 @@ preserve Builder sovereignty while enabling collective economic acceleration.
 The Guild is not an employer, vendor-of-record, or contracting entity.
 The Guild provides stewardship, certification, governance, and ecosystem support.
 
-2. Core Principles
-2.1 The Builder Owns
+# 2. Core Principles
+## 2.1 The Builder Owns
 
 Builders retain full intellectual-property ownership, rights, and responsibility for their work.
 Liability for deliverables remains fully with each Builder or their LLC.
 
-2.2 The Guild Stewards
+## 2.2 The Guild Stewards
 
 The Guild manages governance, certification, lineage, maintenance funds, and economic frameworks.
 The Guild never assumes operational or contractual liability.
 
-2.3 Sovereignty Over Hierarchy
+## 2.3 Sovereignty Over Hierarchy
 
 Builders are independent entities.
 The Guild imposes no employer-style control or obligations.
 
-2.4 Transparency and Fairness
+## 2.4 Transparency and Fairness
 
 Royalty splits, lineage rules, attribution, and arbitration decisions follow published, consistent processes.
 
-2.5 Craft Above Ego
+## 2.5 Craft Above Ego
 
 Contribution quality, clarity, and reliability take precedence over personality, politics, or seniority.
 
-3. Guild Structure
-3.1 The Guildmaster
+# 3. Guild Structure
+## 3.1 The Guildmaster
 
 The founder of the Guild during the Pre-Guild Era.
 Responsible for:
@@ -55,7 +55,7 @@ ensuring the Guild remains aligned with core principles.
 
 The Guildmaster does not own Builder IP and does not override Builder sovereignty.
 
-3.2 Stewards (Phase 3)
+## 3.2 Stewards (Phase 3)
 
 Stewards are appointed after Guild activation to:
 
@@ -71,7 +71,7 @@ uphold transparent governance.
 
 Stewards are administrators, not owners.
 
-3.3 Builders
+## 3.3 Builders
 
 Independent engineers or LLCs who:
 
@@ -88,7 +88,7 @@ maintain professional conduct within the Guild.
 Builders may come and go freely.
 They are autonomous and retain full freedom.
 
-4. The Path of the First Five
+# 4. The Path of the First Five
 
 The Guild is not active until the First Five Builders demonstrate:
 
