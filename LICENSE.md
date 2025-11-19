@@ -1,266 +1,270 @@
-# Shaleio Guild License (SGL™) v1.4 — LEGALLY HARDENED DRAFT
+# **ShaleIO Guild License (SGL™) v1.6 — Draft**
 
 **Effective Date:** TBD (2025)
-**Copyright © 2025 ShaleIO LLC and Individual Builders**
+**Copyright © 2025 ShaleIO LLC and Individual Contributors**
 
 ---
 
-# 1. PURPOSE AND SCOPE
+## **1. SCOPE OF LICENSE**
 
-The Shaleio Guild License (SGL™) governs:
+This License governs:
 
 * distribution,
 * resale,
-* certification,
-* and revenue‑sharing
+* certification, and
+* revenue allocation
 
-of products (“Strata”) distributed under the ShaleIO Guild ecosystem.
+for software, code, documentation, and related materials distributed under the ShaleIO Guild License (“Licensed Works”).
 
-This License regulates **Guild‑related commerce only**. Builders retain full independence and may freely use their IP outside the Guild.
+This License applies only to activities conducted within the ShaleIO LLC licensing framework.
+Contributors retain full independence and may commercialize their intellectual property outside this framework under any terms they choose.
 
-All rights not expressly granted by this License are **reserved** by Builders and ShaleIO.
+All rights not expressly granted herein are reserved by the Contributor and ShaleIO LLC.
 
 ---
 
-# 2. DEFINITIONS
+## **2. DEFINITIONS**
 
-**Builder** — An independent creator or LLC contributing original IP to any Guild-governed work.
+**Contributor** — An independent creator or entity submitting original work to the ShaleIO licensing framework.
 
-**Licensed Work** — Any code, artifacts, or products submitted to the Guild, or distributed under the SGL.
+**Licensed Work** — Any software, documentation, or material submitted for certification or distributed under this License.
 
-**Strata** — A Guild‑certified, slice‑based, revenue‑sharing product.
+**Certified Product** — A Licensed Work approved and distributed through ShaleIO LLC’s official channels.
 
-**Royalty Engine** — The portion of revenue (85%) allocated to Builders and Reforge Pools.
+**Material Enhancement** — A substantial modification, extension, or improvement to a Certified Product.
 
-**Commercial Use** — Any sale, deployment, integration, licensing, or use of a Licensed Work in exchange for money, services, resources, or enterprise benefit.
+**Royalty Distribution Structure** — The system through which revenues from Certified Product sales are allocated.
 
-**Net Revenue** — Total received funds **minus**:
+**Net Revenue** — Gross revenue actually received, minus:
 
 * mandatory taxes,
-* transaction fees,
-* direct hosting/distribution costs.
+* third-party transaction fees,
+* direct hosting or distribution costs.
+  No indirect, administrative, or internal operational costs may be deducted.
 
-No indirect, administrative, or internal costs may be deducted.
+**Licensing Executive** — The ShaleIO LLC officer responsible for interpreting and issuing determinations under this License
+(*internal designation: “Guildmaster”*).
+
+**Licensing Review Committee** — Individuals appointed by ShaleIO LLC to review disputes and classification decisions
+(*internal designation: “Stewards”*).
 
 ---
 
-# 3. BUILDER OWNERSHIP (THE BUILDER OWNS)
+## **3. INTELLECTUAL PROPERTY OWNERSHIP**
 
-Builders retain **full intellectual-property ownership** of all original work.
+Contributors retain full ownership of all original intellectual property they create.
 
-Submitting a Licensed Work to the Guild grants ShaleIO a **perpetual, irrevocable, non-exclusive license** to:
+By submitting a Licensed Work for certification, the Contributor grants ShaleIO LLC a perpetual, irrevocable, worldwide, non-exclusive license to:
 
 * distribute,
 * certify,
-* sublicense,
-* and resell
+* sublicense, and
+* resell
 
-within the Guild ecosystem **only**.
+the Licensed Work **within the ShaleIO licensing framework only**.
 
-Builders may freely relicense or commercialize their work **outside** the Guild under any terms they choose.
+Contributors may freely relicense or commercialize their work outside this framework without payment to ShaleIO LLC.
 
-The Builder owns:
-
-* the work,
-* the rights,
-* and **the liability** for any Builder–Client contract.
-
-The Guild is **never** a contracting party.
+Contributors retain all liability for any services, consulting engagements, or client-facing obligations.
+ShaleIO LLC is not a party to Contributor–client contracts.
 
 ---
 
-# 4. ROYALTY MODEL (SLICE-BASED REFORGE SYSTEM)
+## **4. ROYALTY DISTRIBUTION MODEL**
 
-All Guild sales follow a fixed structure:
+All sales of Certified Products follow the fixed revenue structure below.
 
-### 4.1 Guild Marketplace Sales
+### **4.1 Sales Through ShaleIO LLC**
 
-From each sale:
+For each sale:
 
-* **15%** → ShaleIO Guild (stewardship fee)
-* **85%** → Royalty Engine
+* **15%** → ShaleIO LLC (Administrative Licensing Fee)
+* **85%** → Royalty Distribution Structure
 
-### 4.2 Original Builder (OB) Floor
+### **4.2 Original Contributor Allocation**
 
-The Original Builder receives a **permanent, non-dilutable floor of 30%** of the Royalty Engine.
+The original Contributor receives a perpetual, non-dilutable **30%** of the Royalty Distribution Structure.
 
-### 4.3 Reforge Pools
+### **4.3 Enhancement Royalty Pools**
 
-A “Reforge” occurs when a Builder materially improves, extends, or restructures a Strata.
+Each Material Enhancement approved as a major version upgrade creates a permanent Enhancement Royalty Pool:
 
-Each major Reforge creates a new, permanent royalty slice:
+* **Pool A** (first enhancement)
+* **Pool B** (second enhancement)
+* **Pool C** (third enhancement)
 
-* Reforge 1 Pool (R1)
-* Reforge 2 Pool (R2)
-* Reforge 3 Pool (R3)
+Example for a $100 sale:
 
-Payout example for $100 sale:
+* $15 → ShaleIO LLC
+* $85 → Royalty Distribution Structure
 
-* $15 → Guild
-* $85 → Royalty Engine
+  * Original Contributor: $25.50
+  * Pool A: $34.00
+  * Pool B: $25.50
 
-  * OB: 30% of $85 = **$25.50**
-  * R1 pool: 40% of $85 = **$34.00**
-  * R2 pool: 30% of $85 = **$25.50**
+### **4.4 Enhancements Beyond Pool C**
 
-### 4.4 Reforge 4 and Beyond (Arbitration Zone)
+After the third major enhancement, the Licensing Review Committee will determine whether the contribution constitutes:
 
-After the third major Reforge, the Stewards review any further contribution to determine whether it is:
+* a new Certified Product,
+* a limited royalty pool, or
+* maintenance or bounty-only work.
 
-* a new Strata,
-* a new limited royalty pool,
-* or bounty-only maintenance.
-
-**The Guild’s ruling is final within the Guild ecosystem.**
+The Licensing Executive’s final determination is binding within the scope of this License.
 
 ---
 
-# 5. INDEPENDENT SALES UNDER SGL (TITHE SYSTEM)
+## **5. INDEPENDENT SALES BY CONTRIBUTORS**
 
-Builders may sell their own SGL-governed works independently.
+Contributors may independently sell Licensed Works governed by this License.
 
-Revenue share:
+Revenue allocation:
 
-* **90%** → Builder(s)
-* **10%** → ShaleIO Guild (tithe)
+* **90%** → Contributor
+* **10%** → ShaleIO LLC (Independent Sales Fee)
 
-Payments due within **60 days**.
+Payments are due within 60 days of receipt.
 
-Independent SGL use maintains lineage, brand integrity, and royalty slices.
-
----
-
-# 6. NON-SGL INDEPENDENT SALES (BUILDER FREEDOM)
-
-Builders may sell, modify, or relicense their work **outside** the SGL with:
-
-* no tithe,
-* no obligation,
-* and no revenue share owed to ShaleIO.
-
-These products may not claim Guild certification or use Guild marks.
-
----
-# 7 THIRD PARTY DISTRIBUTION EVENTS
-
-## 7.1
-Resale of Guild artifacts in public digital marketplaces shall be considered a “Distribution Event,” distinct from consultancy-driven deployment.
-
-## 7.2
-Distribution Events are prohibited unless the reseller obtains Guild authorization as a Certified Distributor.
-
-## 7.3
-Certified Distributors must adhere to Guild economic standards, including promotional limits (e.g., discount caps), quality verification, revenue splits, and marketplace ethics.
-
-## 7.4
-Unauthorized digital marketplaces, reseller funnels, or derivative storefronts (including but not limited to altered, white-labeled, or unverified catalogs) constitute a violation of Guild Law.
-
-## 7.5
-Consultancies remain the sole permitted agents for third-party deployment without Distributor certification, subject to the standard tithe.
-
-# 8. ATTRIBUTION REQUIREMENTS
-
-All Licensed Works must preserve:
-
-* original Builder attribution,
-* Strata lineage if applicable,
-* Guild certification mark if distributed through Guild channels.
-
-Attribution must be:
-
-* visible,
-* unambiguous,
-* and retained in derivative works.
-
-Removing attribution terminates the License.
+Independent sales must maintain required attribution and Contribution Records.
 
 ---
 
-# 9 . TRADEMARKS AND GUILD MARKS
+## **6. EXTERNAL LICENSING OUTSIDE THIS LICENSE**
 
-“ShaleIO,” “ShaleIO Guild,” “Strata,” and the **Seal of the Forge** are Guild trademarks.
+Contributors may sell, modify, or relicense their original work outside the ShaleIO licensing framework with:
 
-Use is prohibited without explicit authorization.
+* no fee,
+* no obligation, and
+* no revenue share owed to ShaleIO LLC.
 
-Misuse of Guild marks results in immediate revocation of SGL rights.
-
----
-
-# 10. WARRANTY & LIABILITY DISCLAIMERS
-
-All Licensed Works are provided **"AS IS,"** without any warranty.
-
-ShaleIO and Builders disclaim all liability for:
-
-* indirect,
-* incidental,
-* special,
-* punitive,
-* consequential,
-* or lost-profit damages.
-
-Nothing in this License obligates the Guild or any Builder to provide support, updates, fixes, or maintenance.
-
-Builders bear full responsibility for their deliverables in all client engagements.
+Externally licensed products may not claim SGL certification or use any ShaleIO trademarks or certification marks.
 
 ---
 
-# 11. ARBITRATION AND DISPUTE RESOLUTION
+## **7. THIRD-PARTY DISTRIBUTION REQUIREMENTS**
 
-### 11.1 Guild Arbitration Scope
+### **7.1 Definition of a Distribution Event**
 
-Covers only:
+Any resale or listing of a Certified Product on a public digital marketplace constitutes a Distribution Event, distinct from consulting-based deployment.
 
-* slice calculations,
-* reforge classification,
-* lineage disputes,
-* tithe/royalty compliance,
-* SGL misuse,
-* Strata certification rules.
+### **7.2 Authorization Requirement**
 
-### 11.2 Process
+Distribution Events are prohibited unless the reseller is a ShaleIO-approved **Certified Distributor**.
 
-* Stewards review.
-* Guildmaster interprets.
-* Decision is final **inside** the Guild.
+### **7.3 Distributor Obligations**
 
-### 11.3 External Contracts
+Certified Distributors must comply with ShaleIO standards, including:
 
-All Builder-client disputes fall **outside** Guild jurisdiction.
+* pricing restrictions,
+* discount limitations,
+* verification requirements,
+* quality standards, and
+* revenue-sharing obligations.
+
+### **7.4 Unauthorized Resale**
+
+Unauthorized marketplace listings, derivative storefronts, rebranded catalogs, or attempts to bypass certification constitute a material breach.
+
+### **7.5 Consulting Deployments**
+
+Consultancies may deploy Certified Products for clients without Distributor certification, subject to the Independent Sales Fee.
 
 ---
 
-# 12. TERMINATION
+## **8. ATTRIBUTION REQUIREMENTS**
 
-Grounds for termination:
+All Licensed Works must include:
 
-* failure to pay royalties or tithe,
-* misuse of Guild marks or SGL branding,
+* original Contributor attribution,
+* Contribution Record where applicable,
+* ShaleIO certification notice (for Certified Products).
+
+Attribution must be clear, visible, and retained in derivative works.
+
+Removal of required attribution is a material breach of this License.
+
+---
+
+## **9. TRADEMARKS**
+
+“ShaleIO,” “ShaleIO Guild License,” “SGL,” “Certified Product,” and the “ShaleIO Certification Mark” are trademarks of ShaleIO LLC.
+
+Unauthorized use of any ShaleIO trademark voids rights granted under this License.
+
+---
+
+## **10. WARRANTY AND LIABILITY**
+
+All Licensed Works are provided **“AS IS”** without warranties of any kind.
+
+To the fullest extent permitted by law, ShaleIO LLC and Contributors disclaim:
+
+* indirect, incidental, or consequential damages,
+* special or punitive damages,
+* lost profits or lost revenue,
+* business interruption,
+* or any liability arising from use or deployment of Licensed Works.
+
+Nothing in this License obligates ShaleIO LLC or any Contributor to provide support, maintenance, patches, or updates unless separately contracted.
+
+Contributors are exclusively responsible for obligations arising from their client engagements.
+
+---
+
+## **11. DISPUTE RESOLUTION**
+
+### **11.1 Scope**
+
+This process applies exclusively to disputes involving:
+
+* royalty calculations,
+* enhancement classification,
+* Contribution Records,
+* fee compliance,
+* misuse of trademarks,
+* or certification issues.
+
+### **11.2 Procedure**
+
+* The Licensing Review Committee evaluates the dispute.
+* The Licensing Executive issues a final determination on behalf of ShaleIO LLC.
+* Determinations are binding within this licensing framework.
+
+### **11.3 External Disputes**
+
+Contributor–client disputes fall outside this License.
+
+---
+
+## **12. TERMINATION**
+
+Grounds for termination include:
+
+* non-payment of fees or royalties,
+* unauthorized use of trademarks or certification marks,
 * removal of required attribution,
-* violation of arbitration rulings,
-* material breach of License.
+* violation of classification or review determinations,
+* material breach of this License.
 
 Upon termination:
 
-* SGL commercial rights are revoked,
-* Guild marketplace access ceases,
-* Strata certification is withdrawn.
-
-Builders retain full ownership of their IP.
+* all rights granted under this License are revoked,
+* certification for associated products is withdrawn,
+* Contributors retain ownership of their underlying intellectual property.
 
 ---
 
-# 13. GOVERNING LAW
+## **13. GOVERNING LAW**
 
-This License is governed by the laws of the **State of Florida**, United States.
-
-Any legal claim arising from this License shall be brought exclusively in Florida courts.
+This License is governed by the laws of the State of Florida, United States.
+All legal claims arising under this License shall be brought exclusively in Florida courts.
 
 ---
 
-# 14. ACCEPTANCE OF TERMS
+## **14. ACCEPTANCE OF TERMS**
 
-By contributing, distributing, or selling under the SGL, you agree to all terms herein.
+By contributing, certifying, distributing, or selling under the ShaleIO Guild License, you agree to all terms contained herein.
 
-For inquiries: **[info@shaleio.com](mailto:info@shaleio.com)**
+For notices and inquiries: **[info@shaleio.com](mailto:info@shaleio.com)**
+
 
