@@ -1,6 +1,6 @@
 # Shaleio Guild Codex: Ranks & Pathways
 
-## Unproven (Community Member)
+## Unproven
 
 Those outside the Guild. Unproven individuals have no access to internal systems, resources, or discussions beyond the public Town Square. They may observe the Guild from a distance but hold no status, permissions, or recognition.
 
@@ -21,7 +21,7 @@ An individual who has formally begun the Path of the Builder.
 * Must present credible talent (e.g., GitHub portfolio) **or** provide meaningful assistance to an existing Builder in a B2B capacity.
 * May observe, learn, and prepare for advancement, but does not yet contribute to Strata or internal Guildwork.
 
-## Forger (Entry Level Engineer)
+## Forger
 
 A rising craftsman who has demonstrated baseline capability and reliability.
 
@@ -42,7 +42,7 @@ A rising craftsman who has demonstrated baseline capability and reliability.
 * Holds no royalty slices.
 * Cannot lead reforges or craft Strata independently.
 
-## Builder (Mid Level Engineer)
+## Builder
 
 A full Builder of the Guild, entrusted with craft, contribution, and the shaping of Strata.
 
@@ -63,7 +63,7 @@ A full Builder of the Guild, entrusted with craft, contribution, and the shaping
 * Uphold Guild ethos, quality, and craft.
 * Maintain clear lineage and documentation.
 
-## Artisan (Sr Level Engineer)
+## Artisan
 
 A Builder whose craft displays exceptional quality, vision, and consistency.
 
@@ -78,7 +78,7 @@ A Builder whose craft displays exceptional quality, vision, and consistency.
 * Elevated influence in technical direction and Forge-related decisions.
 * May advise in arbitration or lineage evaluation.
 
-## Steward (Admin / Tech Lead)
+## Steward
 
 A Builder elevated into operational, organizational, or governance responsibility.
 
@@ -93,6 +93,6 @@ A Builder elevated into operational, organizational, or governance responsibilit
 * Coordinating contributors, bounties, and internal processes.
 * Assisting the Guildmaster in governance.
 
-## Guildmaster (Founder)
+## Guildmaster
 
 The first Builder and chief custodian of the Charter, ethos, adjudication, and strategic direction of the Guild. The Guildmaster holds final interpretive authority and protects the sovereignty, dignity, and craft of all Builders.
