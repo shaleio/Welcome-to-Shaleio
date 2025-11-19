@@ -144,18 +144,16 @@ If the Original Contributor is unable or unwilling to maintain a Certified Produ
 
 In such cases:
 
-The Original Contributor retains all existing royalty rights and percentages assigned under the Royalty Distribution Structure;
-
-Any new Material Enhancements created under this clause shall form new Enhancement Royalty Pools allocated to the contributing party as determined by the Licensing Review Committee;
-
-All modifications must be documented and offered to the Original Contributor for incorporation upon their return;
-
-Continuity actions taken under this clause do not transfer ownership of the underlying Licensed Work to ShaleIO LLC or to any other Contributor.
+- The Original Contributor retains all existing royalty rights and percentages assigned under the Royalty Distribution Structure;
+- Any new Material Enhancements created under this clause shall form new Enhancement Royalty Pools allocated to the contributing party as determined by the Licensing Review Committee;
+- All modifications must be documented and offered to the Original Contributor for incorporation upon their return;
+- Continuity actions taken under this clause do not transfer ownership of the underlying Licensed Work to Shaleio LLC or to any other Contributor.
 
 This clause exists solely to ensure operational continuity and does not diminish the Original Contributor’s intellectual property rights.
 
 The Original Contributor may, at their discretion, opt out of the Continuity of Maintenance provision by providing written notice to Shaleio LLC.
-If an opt-out notice is submitted, ShaleIO LLC shall not authorize Material Enhancements or continuity maintenance by third parties except where required to address urgent security vulnerabilities or compliance issues as outlined in Section 3.1.
+
+If an opt-out notice is submitted, Shaleio LLC shall not authorize Material Enhancements or continuity maintenance by third parties except where required to address urgent security vulnerabilities or compliance issues as outlined in Section 3.1.
 
 ## **5. INDEPENDENT SALES BY CONTRIBUTORS**
 
