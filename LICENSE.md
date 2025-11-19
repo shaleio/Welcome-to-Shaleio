@@ -25,7 +25,10 @@ All rights not expressly granted herein are reserved by the Contributor and Shal
 
 ## **2. DEFINITIONS**
 
-**Contributor** — An independent creator or entity submitting original work to the Shaleio licensing framework.
+**Contributor** — any individual or entity submitting original work to the ShaleIO licensing framework, including both Material Enhancements and maintenance-level contributions.
+
+
+**Bounty Contributor** -  a contributor who provides maintenance, bug fixes, optimizations, documentation corrections, or non-material improvements that do not meet the threshold of a Material Enhancement. Bounty Contributors do not receive royalty allocations and may be compensated through separate bounty payments, if offered by ShaleIO LLC or by a Certified Product’s Original Contributor.
 
 **Licensed Work** — Any software, documentation, or material submitted for certification or distributed under this License.
 
@@ -113,6 +116,11 @@ After the third major enhancement, the Licensing Review Committee will determine
 The Licensing Executive’s final determination is binding within the scope of this License.
 
 ---
+
+### **4.5 Bounty Contributors**
+
+Work classified as maintenance-level contributions shall be designated as Bounty Contributions and do not create or participate in any Royalty Pools.
+
 
 ## **5. INDEPENDENT SALES BY CONTRIBUTORS**
 
