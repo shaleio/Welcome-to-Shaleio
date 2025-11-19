@@ -1,4 +1,4 @@
-# Shaleio Guild License (SGL™) v1.3 — LEGALLY HARDENED DRAFT
+# Shaleio Guild License (SGL™) v1.4 — LEGALLY HARDENED DRAFT
 
 **Effective Date:** TBD (2025)
 **Copyright © 2025 ShaleIO LLC and Individual Builders**
@@ -141,8 +141,24 @@ Builders may sell, modify, or relicense their work **outside** the SGL with:
 These products may not claim Guild certification or use Guild marks.
 
 ---
+# 7 THIRD PARTY DISTRIBUTION EVENTS
 
-# 7. ATTRIBUTION REQUIREMENTS
+## 7.1
+Resale of Guild artifacts in public digital marketplaces shall be considered a “Distribution Event,” distinct from consultancy-driven deployment.
+
+## 7.2
+Distribution Events are prohibited unless the reseller obtains Guild authorization as a Certified Distributor.
+
+## 7.3
+Certified Distributors must adhere to Guild economic standards, including promotional limits (e.g., discount caps), quality verification, revenue splits, and marketplace ethics.
+
+## 7.4
+Unauthorized digital marketplaces, reseller funnels, or derivative storefronts (including but not limited to altered, white-labeled, or unverified catalogs) constitute a violation of Guild Law.
+
+## 7.5
+Consultancies remain the sole permitted agents for third-party deployment without Distributor certification, subject to the standard tithe.
+
+# 8. ATTRIBUTION REQUIREMENTS
 
 All Licensed Works must preserve:
 
@@ -160,7 +176,7 @@ Removing attribution terminates the License.
 
 ---
 
-# 8. TRADEMARKS AND GUILD MARKS
+# 9 . TRADEMARKS AND GUILD MARKS
 
 “ShaleIO,” “ShaleIO Guild,” “Strata,” and the **Seal of the Forge** are Guild trademarks.
 
@@ -170,7 +186,7 @@ Misuse of Guild marks results in immediate revocation of SGL rights.
 
 ---
 
-# 9. WARRANTY & LIABILITY DISCLAIMERS
+# 10. WARRANTY & LIABILITY DISCLAIMERS
 
 All Licensed Works are provided **"AS IS,"** without any warranty.
 
@@ -189,9 +205,9 @@ Builders bear full responsibility for their deliverables in all client engagemen
 
 ---
 
-# 10. ARBITRATION AND DISPUTE RESOLUTION
+# 11. ARBITRATION AND DISPUTE RESOLUTION
 
-### 10.1 Guild Arbitration Scope
+### 11.1 Guild Arbitration Scope
 
 Covers only:
 
@@ -202,19 +218,19 @@ Covers only:
 * SGL misuse,
 * Strata certification rules.
 
-### 10.2 Process
+### 11.2 Process
 
 * Stewards review.
 * Guildmaster interprets.
 * Decision is final **inside** the Guild.
 
-### 10.3 External Contracts
+### 11.3 External Contracts
 
 All Builder-client disputes fall **outside** Guild jurisdiction.
 
 ---
 
-# 11. TERMINATION
+# 12. TERMINATION
 
 Grounds for termination:
 
@@ -234,7 +250,7 @@ Builders retain full ownership of their IP.
 
 ---
 
-# 12. GOVERNING LAW
+# 13. GOVERNING LAW
 
 This License is governed by the laws of the **State of Florida**, United States.
 
@@ -242,7 +258,7 @@ Any legal claim arising from this License shall be brought exclusively in Florid
 
 ---
 
-# 13. ACCEPTANCE OF TERMS
+# 14. ACCEPTANCE OF TERMS
 
 By contributing, distributing, or selling under the SGL, you agree to all terms herein.
 
