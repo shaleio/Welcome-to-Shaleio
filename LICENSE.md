@@ -167,7 +167,15 @@ Unauthorized marketplace listings, derivative storefronts, rebranded catalogs, o
 
 ### **7.5 Consulting Deployments**
 
-Consultancies may deploy Certified Products for clients without Distributor certification, subject to the Independent Sales Fee.
+Consulting firms may deploy Certified Products for clients without obtaining Distributor certification, subject to a 15% Consulting Deployment Fee payable to ShaleIO LLC, calculated on the gross value of the client contract associated with the deployment.
+
+Shaleio LLC shall allocate the Consulting Deployment Fee as follows:
+
+15% retained by ShaleIO LLC as the Administrative Licensing Fee;
+
+85% distributed through the Royalty Distribution Structure to the Original Contributor and applicable Enhancement Royalty Pools.
+
+Payments are due within 60 days of receipt of client funds.
 
 ---
 
