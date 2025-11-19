@@ -4,7 +4,7 @@
 
 Those outside the Guild. Unproven individuals have no access to internal systems, resources, or discussions beyond the public Town Square. They may observe the Guild from a distance but hold no status, permissions, or recognition.
 
-## Initiate (LLC Entity Associated with ShaleIO LLC)
+## Initiate
 
 An individual who has formally begun the Path of the Builder.
 
