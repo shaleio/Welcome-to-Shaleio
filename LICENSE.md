@@ -88,6 +88,21 @@ Any such modification must:
 - not constitute a Material Enhancement for purposes of royalty allocation.
 - Shaleio LLC shall make reasonable efforts to notify the Contributor of required changes prior to implementation, except where immediate action is necessary to address urgent security or operational risks.
 
+### 3.2 Limitation of Liability for Continuity and Patch Work
+
+Any maintenance, security patch, or operational continuity work performed or commissioned by ShaleIO LLC under Section 3.1 or Section 4.6 is provided on an “AS IS” basis and without any warranty.
+
+ShaleIO LLC shall not be liable for any damages, losses, or defects arising from such modifications, including:
+
+- security vulnerabilities introduced by the patch,
+- operational failures,
+- data loss,
+- service interruption,
+- or any consequential, incidental, or special damages.
+
+All liability for modifications made under these sections remains with the party who authored the modification.
+No continuity activity creates any duty of care, maintenance obligation, or ongoing support commitment for Shaleio LLC.
+
 ---
 
 ## **4. ROYALTY DISTRIBUTION MODEL**
