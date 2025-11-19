@@ -71,6 +71,23 @@ Contributors may freely relicense or commercialize their work outside this frame
 Contributors retain all liability for any services, consulting engagements, or client-facing obligations.
 Shaleio LLC is not a party to Contributor–client contracts.
 
+### 3.1 Operational Continuity and Security Patch Rights
+
+For the sole purposes of security, regulatory compliance, operational continuity, or critical functionality, the Contributor grants ShaleIO LLC a limited, non-exclusive right to modify, patch, or update the Licensed Work as reasonably necessary to:
+
+- remediate security vulnerabilities,
+- maintain compatibility with required third-party services,
+- address breaking changes in dependent systems,
+- or ensure continued functionality of Certified Products.
+
+Any such modification must:
+
+- preserve the Contributor’s ownership of all original intellectual property;
+- not create derivative ownership rights for Shaleio LLC;
+- be documented and provided to the Contributor for review and incorporation into their canonical version;
+- not constitute a Material Enhancement for purposes of royalty allocation.
+- Shaleio LLC shall make reasonable efforts to notify the Contributor of required changes prior to implementation, except where immediate action is necessary to address urgent security or operational risks.
+
 ---
 
 ## **4. ROYALTY DISTRIBUTION MODEL**
