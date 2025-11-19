@@ -1,7 +1,7 @@
 # **ShaleIO Guild License (SGL™) v1.6 — Draft**
 
 **Effective Date:** TBD (2025)
-**Copyright © 2025 ShaleIO LLC and Individual Contributors**
+**Copyright © 2025 Shaleio LLC and Individual Contributors**
 
 ---
 
@@ -14,22 +14,22 @@ This License governs:
 * certification, and
 * revenue allocation
 
-for software, code, documentation, and related materials distributed under the ShaleIO Guild License (“Licensed Works”).
+for software, code, documentation, and related materials distributed under the Shaleio Guild License (“Licensed Works”).
 
-This License applies only to activities conducted within the ShaleIO LLC licensing framework.
+This License applies only to activities conducted within the Shaleio LLC licensing framework.
 Contributors retain full independence and may commercialize their intellectual property outside this framework under any terms they choose.
 
-All rights not expressly granted herein are reserved by the Contributor and ShaleIO LLC.
+All rights not expressly granted herein are reserved by the Contributor and Shaleio LLC.
 
 ---
 
 ## **2. DEFINITIONS**
 
-**Contributor** — An independent creator or entity submitting original work to the ShaleIO licensing framework.
+**Contributor** — An independent creator or entity submitting original work to the Shaleio licensing framework.
 
 **Licensed Work** — Any software, documentation, or material submitted for certification or distributed under this License.
 
-**Certified Product** — A Licensed Work approved and distributed through ShaleIO LLC’s official channels.
+**Certified Product** — A Licensed Work approved and distributed through Shaleio LLC’s official channels.
 
 **Material Enhancement** — A substantial modification, extension, or improvement to a Certified Product.
 
@@ -42,10 +42,10 @@ All rights not expressly granted herein are reserved by the Contributor and Shal
 * direct hosting or distribution costs.
   No indirect, administrative, or internal operational costs may be deducted.
 
-**Licensing Executive** — The ShaleIO LLC officer responsible for interpreting and issuing determinations under this License
+**Licensing Executive** — The Shaleio LLC officer responsible for interpreting and issuing determinations under this License
 (*internal designation: “Guildmaster”*).
 
-**Licensing Review Committee** — Individuals appointed by ShaleIO LLC to review disputes and classification decisions
+**Licensing Review Committee** — Individuals appointed by Shaleio LLC to review disputes and classification decisions
 (*internal designation: “Stewards”*).
 
 ---
@@ -54,19 +54,19 @@ All rights not expressly granted herein are reserved by the Contributor and Shal
 
 Contributors retain full ownership of all original intellectual property they create.
 
-By submitting a Licensed Work for certification, the Contributor grants ShaleIO LLC a perpetual, irrevocable, worldwide, non-exclusive license to:
+By submitting a Licensed Work for certification, the Contributor grants Shaleio LLC a perpetual, irrevocable, worldwide, non-exclusive license to:
 
 * distribute,
 * certify,
 * sublicense, and
 * resell
 
-the Licensed Work **within the ShaleIO licensing framework only**.
+the Licensed Work **within the Shaleio licensing framework only**.
 
-Contributors may freely relicense or commercialize their work outside this framework without payment to ShaleIO LLC.
+Contributors may freely relicense or commercialize their work outside this framework without payment to Shaleio LLC.
 
 Contributors retain all liability for any services, consulting engagements, or client-facing obligations.
-ShaleIO LLC is not a party to Contributor–client contracts.
+Shaleio LLC is not a party to Contributor–client contracts.
 
 ---
 
@@ -74,11 +74,11 @@ ShaleIO LLC is not a party to Contributor–client contracts.
 
 All sales of Certified Products follow the fixed revenue structure below.
 
-### **4.1 Sales Through ShaleIO LLC**
+### **4.1 Sales Through Shaleio LLC**
 
 For each sale:
 
-* **15%** → ShaleIO LLC (Administrative Licensing Fee)
+* **15%** → Shaleio LLC (Administrative Licensing Fee)
 * **85%** → Royalty Distribution Structure
 
 ### **4.2 Original Contributor Allocation**
@@ -95,7 +95,7 @@ Each Material Enhancement approved as a major version upgrade creates a permanen
 
 Example for a $100 sale:
 
-* $15 → ShaleIO LLC
+* $15 → Shaleio LLC
 * $85 → Royalty Distribution Structure
 
   * Original Contributor: $25.50
@@ -121,7 +121,7 @@ Contributors may independently sell Licensed Works governed by this License.
 Revenue allocation:
 
 * **90%** → Contributor
-* **10%** → ShaleIO LLC (Independent Sales Fee)
+* **10%** → Shaleio LLC (Independent Sales Fee)
 
 Payments are due within 60 days of receipt.
 
@@ -131,13 +131,13 @@ Independent sales must maintain required attribution and Contribution Records.
 
 ## **6. EXTERNAL LICENSING OUTSIDE THIS LICENSE**
 
-Contributors may sell, modify, or relicense their original work outside the ShaleIO licensing framework with:
+Contributors may sell, modify, or relicense their original work outside the Shaleio licensing framework with:
 
 * no fee,
 * no obligation, and
-* no revenue share owed to ShaleIO LLC.
+* no revenue share owed to Shaleio LLC.
 
-Externally licensed products may not claim SGL certification or use any ShaleIO trademarks or certification marks.
+Externally licensed products may not claim SGL certification or use any Shaleio trademarks or certification marks.
 
 ---
 
@@ -149,11 +149,11 @@ Any resale or listing of a Certified Product on a public digital marketplace con
 
 ### **7.2 Authorization Requirement**
 
-Distribution Events are prohibited unless the reseller is a ShaleIO-approved **Certified Distributor**.
+Distribution Events are prohibited unless the reseller is a Shaleio-approved **Certified Distributor**.
 
 ### **7.3 Distributor Obligations**
 
-Certified Distributors must comply with ShaleIO standards, including:
+Certified Distributors must comply with Shaleio standards, including:
 
 * pricing restrictions,
 * discount limitations,
@@ -177,7 +177,7 @@ All Licensed Works must include:
 
 * original Contributor attribution,
 * Contribution Record where applicable,
-* ShaleIO certification notice (for Certified Products).
+* Shaleio certification notice (for Certified Products).
 
 Attribution must be clear, visible, and retained in derivative works.
 
@@ -187,9 +187,9 @@ Removal of required attribution is a material breach of this License.
 
 ## **9. TRADEMARKS**
 
-“ShaleIO,” “ShaleIO Guild License,” “SGL,” “Certified Product,” and the “ShaleIO Certification Mark” are trademarks of ShaleIO LLC.
+“Shaleio,” “Shaleio Guild License,” “SGL,” “Certified Product,” and the “Shaleio Certification Mark” are trademarks of Shaleio LLC.
 
-Unauthorized use of any ShaleIO trademark voids rights granted under this License.
+Unauthorized use of any Shaleio trademark voids rights granted under this License.
 
 ---
 
@@ -197,7 +197,7 @@ Unauthorized use of any ShaleIO trademark voids rights granted under this Licens
 
 All Licensed Works are provided **“AS IS”** without warranties of any kind.
 
-To the fullest extent permitted by law, ShaleIO LLC and Contributors disclaim:
+To the fullest extent permitted by law, Shaleio LLC and Contributors disclaim:
 
 * indirect, incidental, or consequential damages,
 * special or punitive damages,
@@ -205,7 +205,7 @@ To the fullest extent permitted by law, ShaleIO LLC and Contributors disclaim:
 * business interruption,
 * or any liability arising from use or deployment of Licensed Works.
 
-Nothing in this License obligates ShaleIO LLC or any Contributor to provide support, maintenance, patches, or updates unless separately contracted.
+Nothing in this License obligates Shaleio LLC or any Contributor to provide support, maintenance, patches, or updates unless separately contracted.
 
 Contributors are exclusively responsible for obligations arising from their client engagements.
 
@@ -227,7 +227,7 @@ This process applies exclusively to disputes involving:
 ### **11.2 Procedure**
 
 * The Licensing Review Committee evaluates the dispute.
-* The Licensing Executive issues a final determination on behalf of ShaleIO LLC.
+* The Licensing Executive issues a final determination on behalf of Shaleio LLC.
 * Determinations are binding within this licensing framework.
 
 ### **11.3 External Disputes**
@@ -263,7 +263,7 @@ All legal claims arising under this License shall be brought exclusively in Flor
 
 ## **14. ACCEPTANCE OF TERMS**
 
-By contributing, certifying, distributing, or selling under the ShaleIO Guild License, you agree to all terms contained herein.
+By contributing, certifying, distributing, or selling under the Shaleio Guild License, you agree to all terms contained herein.
 
 For notices and inquiries: **[info@shaleio.com](mailto:info@shaleio.com)**
 
