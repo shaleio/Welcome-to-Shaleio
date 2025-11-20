@@ -17,8 +17,39 @@ fast, transparent, and financially sane.
 - ⚙️ **Serverless-first**: Glue, Lambda, Athena, Iceberg, S3 — AWS native.  
 - 💰 **FinOps-driven**: measurable ROI and cost transparency baked in.  
 - 🧱 **Ownable architecture**: clients own their stack, builders own their code.  
-- 🧠 **Open philosophy**: craftsmanship over SaaS dependency.  
+- 🧠 **Open philosophy**: craftsmanship over SaaS dependency.
 
+A place where senior engineers sell real cloud systems, keep 85%, own their IP, and never touch vendor lock-in again.
+
+#### Official Definition:
+ShaleIO is a modern engineering guild and licensing authority that enables independent builders to create, own, and commercially distribute cloud-native systems.
+Instead of operating as a traditional startup, SaaS platform, or consulting firm, ShaleIO provides:
+
+(1) a certification and governance framework (the SGL),
+(2) a curated marketplace for serverless cloud systems (“Strata”),
+(3) a royalty engine that rewards creators directly,
+(4) legal, economic, and cultural structure for a decentralized builder ecosystem.
+
+Builders work as independent LLCs, retain full IP ownership, and earn 85% of revenue from marketplace sales.
+ShaleIO supplies the licensing, arbitration, lineage governance, quality standards, and economic rules that hold the ecosystem together.
+
+This makes ShaleIO:
+
+**not a SaaS vendor,
+
+not a consultancy,
+and not an employer —
+but an institutional steward of a builder-owned software economy.**
+
+Over time, ShaleIO evolves into:
+
+- a neutral certification body for cloud patterns,
+- a standards organization for serverless architectures,
+- a marketplace operator for high-quality infrastructure artifacts,
+- a cultural center for senior engineers,
+- and a long-term economic engine that aligns incentives between creators and clients without rent-seeking or lock-in.
+
+ShaleIO is designed to scale horizontally through Builders, not through headcount, and to grow sustainably as a guild-driven ecosystem rather than a venture-funded startup.
 ---
 
 ### 🧩 This Repo
@@ -26,8 +57,7 @@ fast, transparent, and financially sane.
 This is our **welcome repository** — the digital forge entrance.  
 Here you’ll find:
 - Branding assets (logo, icons, color themes)  
-- The [Shaleio Manifesto](#the-guild-philosophy)  
-- Links to our templates, blueprints, and projects  
+- Links to our templates, blueprints, and public facing projects  
 - Contribution and guild membership details (coming soon)
 
 ---
@@ -45,23 +75,6 @@ Our creed:
 3. **Transparency** — No black-box SaaS.  
 4. **Craftsmanship** — Quality over complexity.  
 5. **Community** — Collaboration without corporatism.  
-
----
-
-### 🧭 Getting Started
-
-1. Explore our templates:  
-   - [Serverless AWS Starter](#)  
-   - [Glue + Iceberg ETL Example](#)  
-   - [FinOps Dashboard](#)
-
-2. Follow updates:  
-   - 🐙 [github.com/shaleio](https://github.com/shaleio)  
-   - 🌐 [shaleio.com](https://shaleio.com)  
-   - 🎥 [YouTube Guild](https://youtube.com/@shaleio)
-
-3. Reach out:  
-   - ✉️ `alex@shaleio.com`
 
 ---
 
