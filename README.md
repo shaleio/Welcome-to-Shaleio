@@ -25,10 +25,10 @@ A place where senior engineers sell real cloud systems, keep 85%, own their IP, 
 ShaleIO is a modern engineering guild and licensing authority that enables independent builders to create, own, and commercially distribute cloud-native systems.
 Instead of operating as a traditional startup, SaaS platform, or consulting firm, ShaleIO provides:
 
-(1) a certification and governance framework (the SGL),
-(2) a curated marketplace for serverless cloud systems (“Strata”),
-(3) a royalty engine that rewards creators directly,
-(4) legal, economic, and cultural structure for a decentralized builder ecosystem.
+- (1) a certification and governance framework (the SGL),
+- (2) a curated marketplace for serverless cloud systems (“Strata”),
+- (3) a royalty engine that rewards creators directly,
+- (4) legal, economic, and cultural structure for a decentralized builder ecosystem.
 
 Builders work as independent LLCs, retain full IP ownership, and earn 85% of revenue from marketplace sales.
 ShaleIO supplies the licensing, arbitration, lineage governance, quality standards, and economic rules that hold the ecosystem together.
