@@ -220,16 +220,59 @@ This rule ensures:
 
 A publicly traded entity may purchase and use Strata products under standard SGL commercial terms, but may not join the Guild, earn slices, submit reforges, or claim any Builder or Steward designation.
 
-## 12. Amendment to the Charter
+## 12. Independent Builder Requirement
+
+To preserve the independence, craft integrity, and non-corporate nature of the Guild, all Builders must operate as individually owned entities.
+
+A Builder must be:
+- an individual,
+- or an LLC or equivalent entity that is solely or majority-owned by the individual Builder.
+
+The following restrictions apply:
+
+### No Organizational Direction
+A Builder may not act under the direction, control, or strategic interests of any organization whose primary business is software development, consulting, or technology services.
+
+### No Corporate Teams Acting as a Single Builder
+Contributions must originate from the Builder personally or from subcontractors under the Builder’s direct control.
+An employer, corporate group, or multi-employee team may not collectively act as a “Builder” for purposes of Guild participation.
+
+### No Corporate Capture
+Organizations—including privately held companies, venture-backed entities, and private-equity portfolio companies—may not use the Guild as a coordinated commercial production arm or as an extension of their internal engineering departments.
+
+### Subcontracting Permitted
+Builders may freely subcontract work, provided:
+
+- the Builder retains IP ownership;
+- subcontractors are not misrepresented as independent Builders;
+- the work remains under the Builder’s individual creative direction.
+
+### Enforcement and Review
+The Guild may review Builder status if there is reasonable evidence that a Contributor is acting on behalf of, or under the strategic control of, a larger organization.
+
+The Guild may revoke Builder status or deny certification where corporate capture or coordinated organizational participation is identified.
+
+12.1 Purpose of This Clause
+
+This requirement exists to:
+
+- prevent multi-engineer organizations from dominating reforges or lineage,
+- preserve individual craft sovereignty,
+- maintain fair access to economic participation,
+- avoid cartel-like behavior,
+- protect the Guild from corporate influence,
+- and ensure the Guild remains a collective of autonomous Builders rather than a corporate production network.
+
+## 13. Amendment to the Charter
 
 This Charter may be updated by the Guildmaster prior to activation.
 After activation, amendments require review by Stewards and formal declaration by the Guildmaster.
 
-## 13. Governing Law
+## 14. Governing Law
 
 This Charter is governed by the laws of the State of Florida, United States.
 
-## 14. Closing Statement
+## 15. Closing Statement
 
 The Guild exists for the Builders, not above them.
 It grows only through craft, integrity, and creation.
