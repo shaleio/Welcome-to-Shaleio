@@ -1,6 +1,4 @@
 # 🪨 Welcome to **Shaleio**
-
-**A Cloud Guild.**  
 We build **lean, serverless AWS systems** that cut costs by up to **70%**.  
 No subscriptions. No lock-in. Just results.
 
@@ -41,7 +39,7 @@ not a consultancy,
 and not an employer —
 but an institutional steward of a builder-owned software economy.**
 
-Over time, ShaleIO evolves into:
+<details> <summary><strong>Over time, ShaleIO evolves into:
 
 - a neutral certification body for cloud patterns,
 - a standards organization for serverless architectures,
@@ -50,6 +48,8 @@ Over time, ShaleIO evolves into:
 - and a long-term economic engine that aligns incentives between creators and clients without rent-seeking or lock-in.
 
 ShaleIO is designed to scale horizontally through Builders, not through headcount, and to grow sustainably as a guild-driven ecosystem rather than a venture-funded startup.
+</details>
+
 ---
 
 ### 🧩 This Repo
