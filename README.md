@@ -39,7 +39,7 @@ not a consultancy,
 and not an employer —
 but an institutional steward of a builder-owned software economy.**
 
-<details> <summary><strong>Over time, ShaleIO evolves into:
+<details> <summary><strong>Over time, ShaleIO evolves into:</strong></summary>
 
 - a neutral certification body for cloud patterns,
 - a standards organization for serverless architectures,
