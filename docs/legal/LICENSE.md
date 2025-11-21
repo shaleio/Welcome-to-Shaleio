@@ -225,8 +225,8 @@ Unauthorized marketplace listings, derivative storefronts, rebranded catalogs, o
 
 For any Deployment of Guild-Licensed Products performed as part of a commercial engagement, the Consultant shall remit to ShaleIO LLC (“the Guild”) a Consulting Deployment Fee equal to the greater of:
 
-(a) fifteen percent (15%) of the Consultant’s Net Profit attributable to the engagement, or
-(b) fifty percent (50%) of the aggregate Guild List Price(s) of all Guild Products deployed, calculated per-deployment.
+- (a) fifteen percent (15%) of the Consultant’s Net Profit attributable to the engagement, or
+- (b) fifty percent (50%) of the aggregate Guild List Price(s) of all Guild Products deployed, calculated per-deployment.
 
 For avoidance of doubt, discounts, bundling, promotional pricing, service-only invoices, or zero-cost product line items shall not reduce or waive the minimum royalty obligation described in subsection (b).
 
@@ -238,8 +238,8 @@ Failure to register a Deployment within ten (10) business days shall constitute 
 
 ShaleIO LLC shall allocate each Consulting Deployment Fee as follows:
 
-- 15% retained by ShaleIO LLC as the Administrative Licensing Fee; and
-- 85% distributed pursuant to the Guild’s Royalty Distribution Structure to the Original Contributor(s) and applicable Enhancement Royalty Pools, allocated pro rata based on each Product’s Guild List Price.
+- **15%** retained by ShaleIO LLC as the Administrative Licensing Fee; and
+- **85%** distributed pursuant to the Guild’s Royalty Distribution Structure to the Original Contributor(s) and applicable Enhancement Royalty Pools, allocated pro rata based on each Product’s Guild List Price.
 
 #### **7.5.2 Payment Terms**
 
