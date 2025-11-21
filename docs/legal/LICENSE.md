@@ -221,17 +221,31 @@ Certified Distributors must comply with Shaleio standards, including:
 
 Unauthorized marketplace listings, derivative storefronts, rebranded catalogs, or attempts to bypass certification constitute a material breach.
 
-### **7.5 Consulting Deployments**
+#### **7.5 Consulting Deployments**
 
-Consulting firms may deploy Certified Products for clients without obtaining Distributor certification, subject to a 15% Consulting Deployment Fee payable to ShaleIO LLC, calculated on the gross value of the client contract associated with the deployment.
+For any Deployment of Guild-Licensed Products performed as part of a commercial engagement, the Consultant shall remit to ShaleIO LLC (“the Guild”) a Consulting Deployment Fee equal to the greater of:
 
-Shaleio LLC shall allocate the Consulting Deployment Fee as follows:
+(a) fifteen percent (15%) of the Consultant’s Net Profit attributable to the engagement, or
+(b) fifty percent (50%) of the aggregate Guild List Price(s) of all Guild Products deployed, calculated per-deployment.
 
-15% retained by ShaleIO LLC as the Administrative Licensing Fee;
+For avoidance of doubt, discounts, bundling, promotional pricing, service-only invoices, or zero-cost product line items shall not reduce or waive the minimum royalty obligation described in subsection (b).
 
-85% distributed through the Royalty Distribution Structure to the Original Contributor and applicable Enhancement Royalty Pools.
+Each Deployment event constitutes a separate and independent royalty obligation, regardless of whether multiple products are deployed within a single client engagement.
 
-Payments are due within 60 days of receipt of client funds.
+Failure to register a Deployment within ten (10) business days shall constitute a material breach of this Agreement and may result in immediate revocation of Consultant status and access to Guild-Licensed Products.
+
+#### **7.5.1 Allocation of Consulting Deployment Fee**
+
+ShaleIO LLC shall allocate each Consulting Deployment Fee as follows:
+
+- 15% retained by ShaleIO LLC as the Administrative Licensing Fee; and
+- 85% distributed pursuant to the Guild’s Royalty Distribution Structure to the Original Contributor(s) and applicable Enhancement Royalty Pools, allocated pro rata based on each Product’s Guild List Price.
+
+#### **7.5.2 Payment Terms**
+
+Payments shall be remitted to ShaleIO LLC within sixty (60) days of the Consultant’s receipt of client payment for the engagement, or within sixty (60) days of Deployment registration, whichever occurs first.
+
+Interest on late payments may be assessed in accordance with Section 11.
 
 ---
 
@@ -275,9 +289,15 @@ Contributors are exclusively responsible for obligations arising from their clie
 
 ---
 
-## **11. DISPUTE RESOLUTION**
+### **11. Late Payments**
 
-### **11.1 Scope**
+Any amounts not paid when due under this Agreement shall accrue interest from the due date until paid in full at the lesser of (a) one and one-half percent (1.5%) per month, or (b) the maximum rate permitted by applicable law. In addition to interest, the Guild may suspend the Consultant’s access to Guild-Licensed Products, updates, and related services for so long as any undisputed amount remains more than thirty (30) days past due.
+
+---
+
+## **12. DISPUTE RESOLUTION**
+
+### **12.1 Scope**
 
 This process applies exclusively to disputes involving:
 
@@ -288,19 +308,19 @@ This process applies exclusively to disputes involving:
 * misuse of trademarks,
 * or certification issues.
 
-### **11.2 Procedure**
+### **12.2 Procedure**
 
 * The Licensing Review Committee evaluates the dispute.
 * The Licensing Executive issues a final determination on behalf of Shaleio LLC.
 * Determinations are binding within this licensing framework.
 
-### **11.3 External Disputes**
+### **12.3 External Disputes**
 
 Contributor–client disputes fall outside this License.
 
 ---
 
-## **12. TERMINATION**
+## **13. TERMINATION**
 
 Grounds for termination include:
 
@@ -318,14 +338,14 @@ Upon termination:
 
 ---
 
-## **13. GOVERNING LAW**
+## **14. GOVERNING LAW**
 
 This License is governed by the laws of the State of Florida, United States.
 All legal claims arising under this License shall be brought exclusively in Florida courts.
 
 ---
 
-## **14. ACCEPTANCE OF TERMS**
+## **15. ACCEPTANCE OF TERMS**
 
 By contributing, certifying, distributing, or selling under the Shaleio Guild License, you agree to all terms contained herein.
 
